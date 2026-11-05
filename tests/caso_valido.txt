@@ -1,0 +1,15 @@
+int limite = 100;
+float promedio = 12.5;
+
+// Los comentarios y espacios no producen tokens.
+while (limite >= 1) {
+    if (promedio != 0.0) {
+        return "resultado valido";
+    } else {
+        limite = limite - 1;
+    }
+}
+
+/* comentario
+   de varias lineas */
+void ejecutar() { limite = limite + 2; }

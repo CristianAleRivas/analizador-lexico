@@ -1,0 +1,7 @@
+int limite = 100;
+float total = 4.5;
+
+int malo = 12abc;
+int simbolo = $;
+char *texto = "cadena sin cerrar
+return 7;
